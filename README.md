@@ -1,4 +1,4 @@
-# Minecraft-Discord-Chat-Link
+# Minecraft Discord Chat Link
 <p>Fabric Minecraft (1.20.1) mod with integrated discord bot for flexible linkage between servers.</p>
 <p>(Pixel art icon originally by u/IntermediateGameDev I'm not cool enough for that.)</p>
 <p>&nbsp;</p>

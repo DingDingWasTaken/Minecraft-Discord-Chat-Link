@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "discordchatlink",
+  "version": "${version}",
+  "name": "DiscordChatLink",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/DingDingWasTaken/DiscordChatLink"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/discordchatlink/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "client": [
+      "dingdingwastaken.discordchatlink.client.DiscordChatLinkClient"
+    ],
+    "main": [
+      "dingdingwastaken.discordchatlink.ServerInit"
+    ]
+  },
+  "mixins": [
+    "discordchatlink.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

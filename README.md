@@ -18,7 +18,7 @@
 </ol>
 <h4>Set up the Minecraft Server:</h4>
 <ol>
-<li>Download <a href="[https://test.link](https://github.com/DingDingWasTaken/Minecraft-Discord-Chat-Link/blob/main/DiscordChatLink-1.0.jar)">the Fabric Minecraft mod</a>&nbsp;jar file and run it on a Fabric Minecraft 1.20.1 server</li>
+<li>Download the <a href="https://github.com/DingDingWasTaken/Minecraft-Discord-Chat-Link/blob/main/DiscordChatLink-1.0.jar">Fabric Mod</a>&nbsp;jar file and run it on a Fabric Minecraft 1.20.1 server</li>
 <li>As an administrator in the server, run `<strong>/discord register &lt;</strong>bot&nbsp;token<strong>&gt;</strong>` (The bot token is created in the bot set up). With successful registration, the bot in your discord should now go online.</li>
 <li>In the discord with the bot, type `<strong>~help</strong>` to get started</li>
 </ol>
